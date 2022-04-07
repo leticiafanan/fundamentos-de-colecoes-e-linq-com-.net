@@ -1,0 +1,15 @@
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/bin/Debug/net6.0/Colecoes
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/bin/Debug/net6.0/Colecoes.deps.json
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/bin/Debug/net6.0/Colecoes.runtimeconfig.json
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/bin/Debug/net6.0/Colecoes.dll
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/bin/Debug/net6.0/Colecoes.pdb
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/obj/Debug/net6.0/Colecoes.csproj.AssemblyReference.cache
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/obj/Debug/net6.0/Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/obj/Debug/net6.0/Colecoes.AssemblyInfoInputs.cache
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/obj/Debug/net6.0/Colecoes.AssemblyInfo.cs
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/obj/Debug/net6.0/Colecoes.csproj.CoreCompileInputs.cache
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/obj/Debug/net6.0/Colecoes.dll
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/obj/Debug/net6.0/refint/Colecoes.dll
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/obj/Debug/net6.0/Colecoes.pdb
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/obj/Debug/net6.0/Colecoes.genruntimeconfig.cache
+/Users/leticiafanandebarros/Desktop/ExemploColecoes/Colecoes/obj/Debug/net6.0/ref/Colecoes.dll
